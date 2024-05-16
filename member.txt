@@ -1,9 +1,5 @@
-Hello world
+Hello World
 Team: kknock tigers
-member: Mario
+Member: Mario
 	Peach
 	Kong
-Team: kknock pandas
-member: Bab
-	Rice
-	Bull
